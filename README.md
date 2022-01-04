@@ -4,5 +4,5 @@
 ### My personal portfolio website!
 
 ```
-https://onkarkota.github.io
+https://onkar-kota.github.io/Onkar-Portfolio/
 ```

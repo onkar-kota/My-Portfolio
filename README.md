@@ -1,8 +1,8 @@
-# smit-sms.github.io
+# onkar-kota.github.io
 
 
 ### My personal portfolio website!
 
 ```
-https://smit-sms.github.io
+https://onkar-kota.github.io
 ```
